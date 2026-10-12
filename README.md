@@ -3,7 +3,7 @@ Usage:
 ```bash
 # create venv (obviously get python first)
 python -m venv .venv
-source venv/bin/activate
+source .venv/bin/activate
 # or in nushell (get virtualenv package for ur distro)
 python -m virtualenv .venv
 overlay use .venv/bin/activate.nu
