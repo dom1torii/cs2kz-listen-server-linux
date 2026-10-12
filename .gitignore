@@ -1,0 +1,8 @@
+pyproject.toml
+__pycache__/
+build/
+dist/
+*.spec
+.venv
+.vscode
+steamcmd/

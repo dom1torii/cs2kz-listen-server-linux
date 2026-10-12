@@ -1,0 +1,2 @@
+vdf @ git+https://github.com/solsticegamestudios/vdf.git
+requests==2.32.3
